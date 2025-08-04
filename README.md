@@ -12,6 +12,7 @@ Have a great tool? Open an issue or a PR!
 
 ## Explorers and Galleries
 - https://labitbu.fun/
+- https://lifofifox.github.io/labitbus/
 
 ## Individual Labitbu Viewing/Decoding Tools
 - https://labitbu-extractor.lovable.app - Labitbu Extractor: paste in a transaction to render your labitbu
